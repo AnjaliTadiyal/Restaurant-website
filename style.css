@@ -477,7 +477,6 @@ body {
     background-color: var(--secondary-text-color);
     justify-content: space-around;
     align-items: center;
-    margin-bottom: 20px;
 }
 
 .footer-section .footer-subsection {
@@ -485,6 +484,7 @@ body {
     width: 20%;
     height: 40vh;
     color: var(--primary-text-color);
+    margin-bottom:20px;
 }
 
 .footer-section .heading-area {
