@@ -94,6 +94,9 @@
         height:20vh;
         width:25%;
     }
+    .footer-section .footer-subsection{
+        height: fit-content;
+    }
     
 }
 @media screen and (max-width:677px) {
